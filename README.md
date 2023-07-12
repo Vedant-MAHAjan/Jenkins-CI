@@ -10,3 +10,7 @@
 
 ![image](https://github.com/Vedant-MAHAjan/Jenkins-CI/assets/88843623/29b03980-3701-48c4-b495-14e79caa35d3)
 
+![image](https://github.com/Vedant-MAHAjan/Jenkins-CI/assets/88843623/e819b827-fb03-4b21-9034-2deb292825cd)
+
+![image](https://github.com/Vedant-MAHAjan/Jenkins-CI/assets/88843623/aa013b67-fab5-460e-b04b-9703b6ec240a)
+
